@@ -95,4 +95,4 @@ ABAP Cloud, CDS, RAP (managed, draft), OData V4, SAP Fiori elements, abapGit
 ## About this repository
 
 - The `src` folder is in abapGit format. Import it with abapGit instead of editing the files by hand.
-- This is a learning project, built while following SAP's ABAP learning content.
+- This is a learning project, built while following ABAP Programming on SAP BTP Course.
