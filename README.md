@@ -78,6 +78,20 @@ Naming follows the exercise pattern: `Z<Name>` for tables, `ZR_<Name>` for the m
 
 ABAP Cloud, CDS, RAP (managed, draft), OData V4, SAP Fiori elements, abapGit
 
+## Screenshots
+
+### Service binding (published OData V4 service)
+![Service binding](docs/01_service_binding.png)
+
+### Creating a new item (draft)
+![Create item](docs/02_create_form.png)
+
+### Item created
+![Object created](docs/03_object_created.png)
+
+### List report with search and the "Check for expiration" action
+![List report](docs/04_list_report.png)
+
 ## About this repository
 
 - The `src` folder is in abapGit format. Import it with abapGit instead of editing the files by hand.
