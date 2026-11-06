@@ -1,0 +1,7 @@
+@EndUserText.label: 'ZC_27GROCERY'
+@MappingRole: true
+
+define role ZC_27GROCERY {
+  grant select on ZC_27GROCERY
+  where INHERITING CONDITIONS FROM ENTITY ZR_27GROCERY REPLACING { ROOT WITH _BaseEntity };
+}
